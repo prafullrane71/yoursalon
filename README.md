@@ -1,2 +1,3 @@
 # yoursalon
-This is my last project. Related to manage salon operations via software.
+This is my recent project. Related to manage salon operations via software.
+Author : Prafull Rane
